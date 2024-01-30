@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - Farmer Rental</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="index.css">
+    <style>
+        /* Add your custom styles for the Contact page here */
+        .contact-section {
+            background-color: #fff;
+            padding: 40px 0;
+        }
+
+        .contact-form {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .form-group label {
+            font-weight: bold;
+        }
+
+        .form-control {
+            width: 100%;
+            padding: 10px;
+            box-sizing: border-box;
+        }
+
+        .submit-btn {
+            background-color: #4CAF50;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+      <nav class="bg-warning p-3 d-flex mb-3 justify-content-between align-items-center   ">
+        <img src="logo.jpg" alt="logo" style="width: 50px; height:50px; border-radius:50%;"/>
+        <div class="d-flex ">
+            <a href="home.html" class="text-success mr-3">Home</a>
+        </div>
+    </nav>
+
+
+    <section>
+        <div class="testimonial">
+            <h3>Varma</h3>
+            <p><strong>Rating:</strong> ⭐⭐⭐⭐⭐</p>
+            <p>"I absolutely love YogaFlow Academy! The instructors are knowledgeable, and the atmosphere is so welcoming.
+                The variety of classes offered caters to all levels, making it easy to find the perfect class for my
+                needs. I've seen significant improvements in my flexibility and overall well-being since joining.
+                Highly recommend!"</p>
+        </div>
+
+        <div class="testimonial">
+            <h3>Kalpana</h3>
+            <p><strong>Rating:</strong> ⭐⭐⭐⭐⭐</p>
+            <p>"YogaFlow Academy is my happy place. The instructors create a calming and supportive environment that
+                allows me to truly connect with my practice. The diversity of classes keeps things interesting, and I
+                appreciate the attention to individual needs. It's not just a yoga studio; it's a community that
+                encourages growth and self-discovery."</p>
+        </div>
+
+        <div class="testimonial">
+            <h3>Bharat</h3>
+            <p><strong>Rating:</strong> ⭐⭐⭐⭐⭐</p>
+            <p>"Attending classes at YogaFlow Academy has been a transformative experience for me. The instructors are not
+                only skilled but also compassionate. I appreciate the emphasis on mindfulness and holistic well-being.
+                The studio itself is clean and well-maintained, creating a serene space for practice. I'm grateful to
+                have found this gem of a yoga academy."</p>
+        </div>
+    </section>
+
+    <div class="share-experience">
+        <h2>Share Your Experience</h2>
+    </div>
+
+    <section class="contact-section">
+        <div class="container">
+            <h2 class="text-center mb-4">Reviews</h2>
+            
+            <!-- Contact Form -->
+            <form class="contact-form" onsubmit="showAlert(); return false;">
+                <div class="form-group">
+                    <label for="name">Your Name:</label>
+                    <input type="text" id="name" name="name" class="form-control" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="email">Your Email:</label>
+                    <input type="email" id="email" name="email" class="form-control" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="message">Your Message:</label>
+                    <textarea id="message" name="message" class="form-control" rows="5" required></textarea>
+                </div>
+
+                <button type="submit" class="submit-btn">Submit</button>
+            </form>
+        </div>
+    </section>
+
+    <!-- Bootstrap JS and jQuery -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.0.8/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<!-- Additional JavaScript for the Contact page -->
+    <script>
+        function showAlert() {
+            alert('Thank you for reviews');
+        }
+    </script>
+    <footer>     
+    </section>
+
+
+</body>
+
+</html>

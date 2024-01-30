@@ -1,0 +1,81 @@
+
+.yoga-home {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/yoga-bg.png");
+    background-size: cover;
+    font-family: "Roboto";
+    padding: 20px;
+    height: 100vh;
+    overflow: auto;
+}
+
+.yoga-top-line {
+    font-size: 25px;
+    font-weight: bold;
+    color: #132d84;
+    padding: 20px;
+}
+
+.girl-image {
+    height: 400px;
+    padding-top: 100px;
+    padding-bottom: 5px;
+}
+
+.yoga-discription {
+    color: #323f4b;
+}
+
+.btn {
+    background-color: #132d84;
+    font-size: 12px;
+    color: #ffffff;
+}
+
+.yoga-type {
+    background-color: #ffedcb;
+    background-size: cover;
+    overflow: auto  ;
+    height: 100vh;
+}
+
+.yoga-types-girl-image {
+    height: 250px;
+}
+
+.yoga-types-heading {
+    font-size: 25px;
+    color: #132d84;
+    padding: 20px;
+}
+
+.yoga-card {
+    background-color: #ffe2ab;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+
+}
+
+.asan {
+    height: 100px;
+    padding-left: 10px;
+    text-align: center;
+
+}
+
+.asan-name {
+    font-size: 20px;
+    color: #253263;
+    text-align: center;
+}
+
+.asan-discription {
+    font-size: 12px;
+    color: #323f4b;
+    text-align: center;
+}
+.video{
+    height: 100vh;
+    width: 100vw;
+
+}
