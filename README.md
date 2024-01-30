@@ -2,10 +2,10 @@
 
 <h1> YogaFlow Academy</h1>
 <h1>Project Details:</h1>
-1.	Project Demo URL:<br>
-2.	Demo Video URL: <br>
-3.	GitHub Repository URL :<br>
-4.	Industry : health<br>
+1.	Project Demo URL: https://yogafas01.z13.web.core.windows.net/ <br>
+2.	Demo Video URL: https://youtu.be/FiW8BT101gU?si=-0pGwGSWs4lX_BO8 <br>
+3.	GitHub Repository URL : https://github.com/MekalaPooja9933/YogaFlow-Academy-Azure <br>
+4.	Industry : Life Style<br>
 
 <h1>Roles & Responsibilities:</h1>
 Pooja Mekala : I have completed the whole project from developing the code to deployment in Azure portal. 
