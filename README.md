@@ -40,7 +40,7 @@ Azure Storage Account is a foundational component in Microsoft Azure, providing 
 
 <h1>Azure AI Service</h1>
 <h3><b>Azure Chatbot :-</b></h3>
-<img src="https://github.com/MekalaPooja9933/YogaFlow-Academy-Azure/blob/main/Language2.png?raw=true">
+<img src="https://github.com/MekalaPooja9933/YogaFlow-Academy-Azure/blob/main/Microsoftchannel.png?raw=true">
 The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability.
 <img src="https://github.com/MekalaPooja9933/YogaFlow-Academy-Azure/blob/main/chatbot2.png?raw=true">
 <h3>Website Live Project</h3>
