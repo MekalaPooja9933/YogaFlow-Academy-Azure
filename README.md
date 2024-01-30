@@ -34,9 +34,8 @@ Azure Storage Account is a foundational component in Microsoft Azure, providing 
 <img src="https://github.com/MekalaPooja9933/YogaFlow-Academy-Azure/blob/main/blobstorage2.png?raw=true">
 
 <h3><b>Azure Backup Service:-</b></h3>
- <img src="https://github.com/MekalaPooja9933/YogaFlow-Academy-Azure/blob/main/backup%20services.png?raw=true">
  Azure Backup Service by Microsoft safeguards critical data in the Azure cloud. It offers automated and scalable backup solutions for virtual machines, applications, and files. With features like long-term retention and geo-redundancy, it ensures data resilience and facilitates efficient disaster recovery, enhancing overall data protection strategies.
-
+<img src="https://github.com/MekalaPooja9933/YogaFlow-Academy-Azure/blob/main/Dataprotection2.png?raw=true">
  
 
 <h1>Azure AI Service</h1>
