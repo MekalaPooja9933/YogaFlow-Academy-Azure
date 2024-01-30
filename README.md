@@ -44,6 +44,7 @@ The Azure AI Language Chatbot is a cutting-edge conversational agent powered by 
 <img src="https://github.com/MekalaPooja9933/YogaFlow-Academy-Azure/blob/main/Language2.png?raw=true">
 <h3>Website Live Project</h3>
 <img src="https://github.com/MekalaPooja9933/YogaFlow-Academy-Azure/blob/main/indexpage2.png?raw=true">
+<img src="https://github.com/MekalaPooja9933/YogaFlow-Academy-Azure/blob/main/Homepage2.png?raw=true">
 
 
 <h1>Final Project Statement:</h1>
