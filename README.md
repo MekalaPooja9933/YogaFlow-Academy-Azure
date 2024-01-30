@@ -26,7 +26,7 @@ In this website we have differnet types of yoga's and user can learn how to do y
 
 
 <h1>Core Azure Services:</h1>
-<img src="https://github.com/MekalaPooja9933/YogaFlow-Academy-Azure/blob/main/blob%20storage.png?raw=true">
+<img src="https://github.com/MekalaPooja9933/YogaFlow-Academy-Azure/blob/main/blobstorage2.png?raw=true">
 <h3><b>Azure Blob Storage:-</b></h3> Azure Blob Storage is Microsoft's scalable object storage solution in the Azure cloud. It enables secure and cost-effective storage of unstructured data, such as documents and images. Offering seamless integration with applications, it supports data of any size and optimizes accessibility through a globally distributed network. 
 <h3><b>Azure Storage Account:-</b></h3>
 <img src="https://github.com/MekalaPooja9933/YogaFlow-Academy-Azure/blob/main/storage%20account2.png?raw=true">
