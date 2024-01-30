@@ -8,7 +8,7 @@
 4.	Industry : health<br>
 
 <h1>Roles & Responsibilities:</h1>
-
+Pooja Mekala : I have completed the whole project from developing the code to deployment in Azure portal. 
 
  <h1>Azure services used:</h1>
 1.	Azure blob storage<br>
