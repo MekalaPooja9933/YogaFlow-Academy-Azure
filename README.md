@@ -1,4 +1,4 @@
-# YogaFlow-Academy-Azure
+
 
 <h1> YogaFlow Academy</h1>
 <h1>Project Details:</h1>
@@ -44,4 +44,5 @@ The Azure AI Language Chatbot is a cutting-edge conversational agent powered by 
 
 
 <h1>Final Project Statement:</h1>
+<img src=https://github.com/MekalaPooja9933/YogaFlow-Academy-Azure/blob/main/index%20page.png?raw=true">
 This digital haven brings literature to your fingertips, offering a diverse collection of e-books for your reading pleasure. Explore seamlessly organized genres, discover new authors, and enjoy the convenience of digital reading across various devices. With a user-friendly interface, personalized features, and offline accessibility, our E-book library aims to enhance your reading experience. Whether you're a student, a casual reader, or a literary enthusiast, we invite you to embark on a journey through our virtual bookshelves.
